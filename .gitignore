@@ -1,0 +1,19 @@
+# env
+.env
+.env.local
+*.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.uv/
+
+# node / expo
+node_modules/
+.expo/
+dist/
+web-build/
+
+# os
+.DS_Store
